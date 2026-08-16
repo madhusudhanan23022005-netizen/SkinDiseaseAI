@@ -42,6 +42,17 @@ SkinDiseaseAI/
 ├── README.md
 └── .gitignore
 
+## Demo Output
+
+The application allows users to upload a skin image and receive an AI-based prediction with confidence score.
+
+### Prediction Example
+
+- Predicted Disease: Acne_Moderate
+- Confidence: 83.58%
+
+> This AI result is for educational/research purposes only and is not a medical diagnosis.
+
 ## How to Run
 
 1. Clone the repository:
